@@ -7,4 +7,4 @@ url: "https://chunzi.github.io" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 markdown: kramdown
-theme: jekyll-theme-minimal
+theme: jekyll-theme-merlot
