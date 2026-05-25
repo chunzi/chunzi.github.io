@@ -43,6 +43,11 @@ export default defineConfig({
                 link: "https://www.linkedin.com/in/chunzi",
                 ariaLabel: "LinkedIn",
             },
+            {
+                icon: "strava",
+                link: "https://www.strava.com/athletes/chunzi",
+                ariaLabel: "Strava",
+            },
         ],
     },
 });
